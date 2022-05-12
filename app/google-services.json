@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886131399776",
+    "project_id": "ladmu3practica2jza",
+    "storage_bucket": "ladmu3practica2jza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886131399776:android:ecc963323275a206ecf705",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u3_practica2_firebasefirestore_jorgezavalzaarroyo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886131399776-n2joo26p7f2gvmh3ckb7q3rrhuhlr55a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6kY3-98JvO38q4ceNaMz5gGQNPXshWis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886131399776-n2joo26p7f2gvmh3ckb7q3rrhuhlr55a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
